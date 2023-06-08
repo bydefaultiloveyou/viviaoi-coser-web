@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+#parallax {
+  transition: 1s cubic-bezier(0.2, 0.49, 0.32, 0.99);
+}
